@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT (THE PROFESSIONALS VERSION)
 
 ![nanoGPT](assets/nanogpt.jpg)
 
